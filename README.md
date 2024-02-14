@@ -18,4 +18,3 @@ Dieses Python-Skript bietet eine einfache GUI (Graphical User Interface), um ein
 
 1. Stellen Sie sicher, dass Python auf Ihrem System installiert ist. Python kann von der [offiziellen Website](https://www.python.org/downloads/) heruntergeladen werden.
 2. Laden Sie SteamCMD von der [offiziellen SteamCMD-Seite](https://developer.valvesoftware.com/wiki/SteamCMD) herunter und entpacken Sie es in einen Ordner Ihrer Wahl.
-3. Klonen Sie dieses Repository oder laden Sie das Skript direkt herunter.
